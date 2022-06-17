@@ -26,7 +26,7 @@ public class CalculatorController {
       @RequestBody CalculatorRequestRepresentation request
   )  {
     try {
-      logger.info("calculate: " + request.getFirstNumber() + " " + request.getOperator() + " " + request.getSecondNumber());
+      logger.info("calculate: " + request.getFirstNumber() + " + 2");
       var result = calculator.calculate(request.getFirstNumber(), request.getSecondNumber(), Operator.from(request.getOperator()));
       logger.info("result: " + result);
       var response = CalculatorResponseRepresentation.builder()

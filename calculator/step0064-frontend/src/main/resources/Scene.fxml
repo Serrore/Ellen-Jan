@@ -8,16 +8,10 @@
     <children>
         <Pane prefHeight="162.0" prefWidth="303.0">
             <children>
-                <Button layoutX="220.0" layoutY="129.0" mnemonicParsing="false" onAction="#calculate" text="Calculate" />
-                <Button layoutX="61.0" layoutY="129.0" mnemonicParsing="false" onAction="#reset" text="Reset" />
-                <Label layoutX="84.0" layoutY="94.0" text="=" />
+                <Button layoutX="220.0" layoutY="129.0" mnemonicParsing="false" onAction="#calculate" text="Add 2" />
                 <TextField fx:id="firstNumber" layoutX="40.0" layoutY="49.0" prefHeight="25.0" prefWidth="87.0" text="0.0" />
-                <TextField fx:id="secondNumber" layoutX="201.0" layoutY="49.0" prefHeight="25.0" prefWidth="87.0" text="0.0" />
-                <ComboBox fx:id="operatorBox" layoutX="136.0" layoutY="49.0" prefHeight="25.0" prefWidth="57.0" promptText="+" />
-                <TextField fx:id="resultNumber" layoutX="139.0" layoutY="90.0" text="0.0">
-               <font>
-                  <Font name="Bauhaus 93" size="12.0" />
-               </font></TextField>
+ <ComboBox fx:id="operatorBox" layoutX="136.0" layoutY="49.0" prefHeight="25.0" prefWidth="57.0" promptText="+" />
+
             </children>
         </Pane>
     </children>

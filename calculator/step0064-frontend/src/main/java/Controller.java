@@ -24,7 +24,7 @@ public class Controller implements Initializable {
 
   @Override
   public void initialize(URL url, ResourceBundle resourceBundle) {
-    operatorBox.getItems().addAll('+', '-', '*', '/');
+    operatorBox.getItems().addAll('+', '-', '*', '/', 'b');
     operatorBox.getSelectionModel().select(0);  // '+'  show at startup
   }
 
@@ -37,18 +37,11 @@ public class Controller implements Initializable {
   @FXML
   private ComboBox operatorBox;
 
-  @FXML
-  public void reset() {
-    m.reset();
-    this.secondNumber.setText(String.valueOf(m.getFirstNumber()));
-    this.firstNumber.setText(String.valueOf(m.getSecondNumber()));
-    this.resultNumber.setText(String.valueOf(m.getResult()));
-  }
 
   @FXML
   public void calculate() {
     m.setFirstNumber(Double.parseDouble(this.firstNumber.getText()));
-    m.setSecondNumber(Double.parseDouble(this.secondNumber.getText()));
+    m.setSecondNumber(5.0);
     m.setCurrentOperator((char) operatorBox.getValue());
 
     var target = (ResteasyWebTarget) ClientBuilder.newClient()
@@ -63,6 +56,6 @@ public class Controller implements Initializable {
     var result = response.getResult();
 
     m.setResult(result);
-    resultNumber.setText(String.valueOf(m.getResult()));
+    firstNumber.setText(String.valueOf(m.getResult()));
   }
 }

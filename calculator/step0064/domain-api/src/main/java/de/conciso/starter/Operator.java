@@ -6,7 +6,7 @@ public enum Operator {
   ADD('+'),
   SUBTRACT('-'),
   MULTIPLY('*'),
-  DIVIDE('/');
+  DIVIDE('b');
 
   private final char symbol;
 

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f365b176-ea27-42b1-bfca-d8e1dfdfa740" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Model.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Starter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Starter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/conciso/client/calculator/CalculatorRequestRepresentation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/conciso/client/calculator/CalculatorRequestRepresentation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/conciso/client/calculator/CalculatorResponseRepresentation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/conciso/client/calculator/CalculatorResponseRepresentation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/conciso/client/calculator/CalculatorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/conciso/client/calculator/CalculatorService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Scene.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Scene.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../step0064/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../step0064/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../step0064/app/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../step0064/app/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../step0064/app/src/main/java/de/conciso/starter/StarterApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../step0064/app/src/main/java/de/conciso/starter/StarterApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../step0064/app/src/main/resources/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../step0064/app/src/main/resources/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../step0064/app/src/main/resources/static/hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/../step0064/app/src/main/resources/static/hello.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../step0064/domain-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../step0064/domain-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../step0064/domain-api/src/main/java/de/conciso/starter/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../step0064/domain-api/src/main/java/de/conciso/starter/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../step0064/domain-api/src/main/java/de/conciso/starter/Operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../step0064/domain-api/src/main/java/de/conciso/starter/Operator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../step0064/domain-api/src/test/java/de/conciso/starter/OperatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../step0064/domain-core/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../step0064/domain-core/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../step0064/domain-core/src/main/java/de/conciso/starter/CalculatorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../step0064/domain-core/src/main/java/de/conciso/starter/CalculatorService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../step0064/domain-core/src/test/java/de/conciso/starter/CalculatorServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../step0064/info/postman/Starter.postman_collection.json" beforeDir="false" afterPath="$PROJECT_DIR$/../step0064/info/postman/Starter.postman_collection.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../step0064/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../step0064/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../step0064/rest-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../step0064/rest-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../step0064/rest-api/src/main/java/de/conciso/starter/CalculatorController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../step0064/rest-api/src/main/java/de/conciso/starter/CalculatorController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../step0064/rest-api/src/main/java/de/conciso/starter/CalculatorRequestRepresentation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../step0064/rest-api/src/main/java/de/conciso/starter/CalculatorRequestRepresentation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../step0064/rest-api/src/main/java/de/conciso/starter/CalculatorResponseRepresentation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../step0064/rest-api/src/main/java/de/conciso/starter/CalculatorResponseRepresentation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../step0064/rest-api/src/test/java/de/conciso/starter/CalculatorControllerTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2AWkBZbpABSySzJpezLC4j6vzUs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Jan Axel/Desktop/PR4-project/Ellen-Jan/calculator/step0064",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f365b176-ea27-42b1-bfca-d8e1dfdfa740" name="Changes" comment="" />
+      <created>1655132600995</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655132600995</updated>
+      <workItem from="1655453845506" duration="799000" />
+      <workItem from="1655456322801" duration="1672000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

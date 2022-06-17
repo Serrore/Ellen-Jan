@@ -1,0 +1,8 @@
+de\conciso\client\calculator\CalculatorResponseRepresentation.class
+de\conciso\client\calculator\CalculatorRequestRepresentation.class
+Starter.class
+de\conciso\client\calculator\CalculatorService.class
+de\conciso\client\calculator\ImmutableCalculatorRequestRepresentation.class
+Model.class
+Controller.class
+de\conciso\client\calculator\ImmutableCalculatorRequestRepresentation$Builder.class
