@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a818f3b8-c4a6-4aea-b1b6-7c207f9ff779" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../step0064-frontend/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../step0064-frontend/src/main/java/de/conciso/client/calculator/AddResponseRepresentation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domain-api/src/main/java/de/conciso/starter/Add.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest-api/src/main/java/de/conciso/starter/add/AddRequestRepresentation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../step0064-frontend/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../step0064-frontend/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../step0064-frontend/src/main/java/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/../step0064-frontend/src/main/java/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../step0064-frontend/src/main/java/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/../step0064-frontend/src/main/java/Model.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../step0064-frontend/src/main/java/Starter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../step0064-frontend/src/main/java/Starter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../step0064-frontend/src/main/java/de/conciso/client/calculator/CalculatorRequestRepresentation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../step0064-frontend/src/main/java/de/conciso/client/calculator/AddRequestRepresentation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../step0064-frontend/src/main/java/de/conciso/client/calculator/CalculatorResponseRepresentation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../step0064-frontend/src/main/java/de/conciso/client/calculator/CalculatorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../step0064-frontend/src/main/java/de/conciso/client/calculator/AddService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../step0064-frontend/src/main/resources/Scene.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../step0064-frontend/src/main/resources/Scene.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../step0064-frontend/target/classes/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/../step0064-frontend/target/classes/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../step0064-frontend/target/classes/Model.class" beforeDir="false" afterPath="$PROJECT_DIR$/../step0064-frontend/target/classes/Model.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../step0064-frontend/target/classes/Scene.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../step0064-frontend/target/classes/Scene.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../step0064-frontend/target/classes/de/conciso/client/calculator/CalculatorRequestRepresentation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../step0064-frontend/target/classes/de/conciso/client/calculator/CalculatorResponseRepresentation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../step0064-frontend/target/classes/de/conciso/client/calculator/CalculatorService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../step0064-frontend/target/classes/de/conciso/client/calculator/ImmutableCalculatorRequestRepresentation$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../step0064-frontend/target/classes/de/conciso/client/calculator/ImmutableCalculatorRequestRepresentation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../step0064-frontend/target/fx-starter-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../step0064-frontend/target/fx-starter-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../step0064-frontend/target/generated-sources/annotations/de/conciso/client/calculator/ImmutableCalculatorRequestRepresentation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../step0064-frontend/target/generated-sources/annotations/de/conciso/client/calculator/ImmutableAddRequestRepresentation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../step0064-frontend/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../step0064-frontend/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../step0064-frontend/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../step0064-frontend/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../step0064-frontend/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../step0064-frontend/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/target/app-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/target/app-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/target/app-1.0-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/app/target/app-1.0-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/domain-api/src/main/java/de/conciso/starter/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/domain-api/src/main/java/de/conciso/starter/Operator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/domain-api/target/classes/de/conciso/starter/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/domain-api/target/classes/de/conciso/starter/Operator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/domain-api/target/domain-api-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/domain-api/target/domain-api-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/domain-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/domain-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/domain-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/domain-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/domain-core/src/main/java/de/conciso/starter/CalculatorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/domain-core/src/main/java/de/conciso/starter/AddService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/domain-core/target/classes/de/conciso/starter/CalculatorService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/domain-core/target/domain-core-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/domain-core/target/domain-core-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest-api/src/main/java/de/conciso/starter/CalculatorController.java" beforeDir="false" afterPath="$PROJECT_DIR$/rest-api/src/main/java/de/conciso/starter/add/AddController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest-api/src/main/java/de/conciso/starter/CalculatorRequestRepresentation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest-api/src/main/java/de/conciso/starter/CalculatorResponseRepresentation.java" beforeDir="false" afterPath="$PROJECT_DIR$/rest-api/src/main/java/de/conciso/starter/add/AddResponseRepresentation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest-api/target/classes/de/conciso/starter/CalculatorController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest-api/target/classes/de/conciso/starter/CalculatorRequestRepresentation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest-api/target/classes/de/conciso/starter/CalculatorResponseRepresentation$CalculatorResponseRepresentationBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest-api/target/classes/de/conciso/starter/CalculatorResponseRepresentation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest-api/target/rest-api-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/rest-api/target/rest-api-1.0-SNAPSHOT.jar" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2AWfTZ920iVPEdUll0rlazNourn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Jan Axel/Desktop/PR4-project/Ellen-Jan/calculator/step0064/rest-api/src/main/java/de/conciso/starter/substract&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;4e31cd466c88cde533d23ad64d1baa4e&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jan Axel\Desktop\PR4-project\Ellen-Jan\calculator\step0064\rest-api\src\main\java\de\conciso\starter\substract" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="StarterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="app" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="de.conciso.starter.StarterApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a818f3b8-c4a6-4aea-b1b6-7c207f9ff779" name="Changes" comment="" />
+      <created>1655130279889</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655130279889</updated>
+      <workItem from="1655453832541" duration="807000" />
+      <workItem from="1655456373916" duration="1230000" />
+      <workItem from="1655457635921" duration="392000" />
+      <workItem from="1655458264761" duration="2060000" />
+      <workItem from="1655461732028" duration="1062000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
